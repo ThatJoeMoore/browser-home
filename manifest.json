@@ -1,0 +1,6 @@
+{
+  "name": "browser-home",
+  "short_name": "browser-home",
+  "start_url": "/",
+  "display": "standalone"
+}
